@@ -8,7 +8,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Lesson](#Lesson-learnt)
+  - [Lesson](#lesson)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile preview of webpage](images\Screenshot 2022-03-31 at 04-10-17 mobile preview card component.png)
-![desktop preview of webpage](images\Screenshot 2022-03-31 at 04-12-06 Desktop preview card component.png)
+![image](https://user-images.githubusercontent.com/100369935/161363875-1d2bd5d9-6932-407d-8585-28e8794a1e49.png)
+![image](https://user-images.githubusercontent.com/100369935/161364447-a2eaf184-7c80-41af-926c-8970df0be685.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/amalisaah/statsPreview)
+- Live Site URL: [Live site](https://amalisaah.github.io/statsPreview/)
 
 
 ## Lesson
